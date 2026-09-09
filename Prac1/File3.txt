@@ -1,0 +1,2 @@
+"This is the 3rd file in folder Prac1" 
+Some Chinese text generating functions working here 
