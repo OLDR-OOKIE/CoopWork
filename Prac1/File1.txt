@@ -1,4 +1,4 @@
 "This is the 1st file in folder Prac1." 
-Some Reading functions running here 
+Some Reading functions are running here 
 Increased the memory size for saving more text 
 Optimized the algorithm to increase the processing speed 
