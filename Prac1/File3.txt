@@ -1,2 +1,4 @@
 "This is the 3rd file in folder Prac1" 
 Some Chinese text generating functions working here 
+Some Chinese text generating functions are running here 
+Added some poems structures as reference 

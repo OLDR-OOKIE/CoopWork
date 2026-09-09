@@ -2,3 +2,4 @@
 Some Speaking functions are running here 
 Added a New voice into Speaking functions 
 Added an upload port
+Added sound volume adjustment buttons 
